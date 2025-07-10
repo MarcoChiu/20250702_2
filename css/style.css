@@ -1,0 +1,55 @@
+*,*::before,*::after {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 640px;   
+}
+
+.news {
+    margin-bottom: 24px;
+}
+
+.newtext{
+    width:288px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer{
+    height: 20px;
+}
+
+.mg0 {
+    margin: 0 auto;
+}
+
+
+.d-flex {
+    display: flex;
+}
+
+.d-fdc {
+    flex-direction: column;
+}
+
+.fs16 {
+    font-size: 16px;
+    line-height: 1.5
+}
+
+.fs20 {
+    font-size: 20px;
+    line-height: 1.2
+}
+
+
+.img96 {
+    width: 96px;
+    height: 96px;
+}
+
+.img216 {
+    width: 216px;
+    height: 216px;
+}
